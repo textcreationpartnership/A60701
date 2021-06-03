@@ -1,0 +1,2540 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tradesman's directory; or, a short and easy method of keeping his books of accompts so as readily to know at any time the state of his affairs, upon any particular accompt, whether of men, money, or goods. Also how to bring his books to a ballance, and to know his profits or losses in the whole course of his trade. By Charles Snell, master of the free-writing-school, in Foster-Lane, near Cheap-side, London.</title>
+            <author>Snell, Charles, 1667-1733.</author>
+         </titleStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60701</idno><idno type="EEBO-CITATION">99832842</idno>
+  <idno type="VID">37317</idno>
+  <idno type="EEBO-PROQUEST">2248551453</idno>
+  
+            <idno type="STC">Wing S4391A</idno>
+            <idno type="STC">ESTC R221544</idno>
+            <idno type="PROQUEST">99832842</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832842e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60701)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2061:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tradesman's directory; or, a short and easy method of keeping his books of accompts so as readily to know at any time the state of his affairs, upon any particular accompt, whether of men, money, or goods. Also how to bring his books to a ballance, and to know his profits or losses in the whole course of his trade. By Charles Snell, master of the free-writing-school, in Foster-Lane, near Cheap-side, London.</title>
+                  <author>Snell, Charles, 1667-1733.</author>
+               </titleStmt>
+               <extent>[10], 5, 1, 1, 2, 2, 1, 1, 1 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed: and sold by Richard Baldwin, near the Oxford Arms, in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>After page 5, each page is numbered as given.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Bookkeeping --  Early works to 1800.</term>
+               <term type="topical_term">Accounting --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37317:1"/>
+            <p>THE <hi>Tradesman's Director;</hi> Or, a Short and Easy METHOD Of Keeping his BOOKS of ACCOMPTS; So as readily to know at any Time the State of his Affairs, upon any particular Accompt, whether of <hi>Men, Money,</hi> or <hi>Goods.</hi> Also how to bring his Books to a Ballance, and to know his <hi>Profits or Losses</hi> in the whole Course of his Trade. By CHARLES SNELL, <hi>Master of the</hi> Free-Writing-School, <hi>in</hi> Foster-Lane, <hi>near</hi> Cheap-side, LONDON.</p>
+            <p>LONDON, Printed: And Sold by <hi>Richard Baldwin,</hi> near the Oxford Arms, in <hi>Warwick-Lane,</hi> MDCXCVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37317:2"/>
+            <pb facs="tcp:37317:2"/>
+            <head>To the Worshipful Mr. William Snell, <hi>ALDERMAN of the City of COVENTRY.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>NONE can better demonstrate the Ʋsefulness of Methodical and Concise Book-keeping than a Good Accomptant. Your Dealings have suf<g ref="char:EOLhyphen"/>ficiently gain'd You the Reputation of One; therefore I make bold to prefix Your Name to the following Sheets, as a means to recommend them to some of the Many Trading-People, who want Directions of that Kind. I hope, that as You always chiefly consult the Publick Good, neither my presumption, nor the short<g ref="char:EOLhyphen"/>ness of the Piece, which may make it of more general use, will influence You to give it a worse Reception; the rather since I have been long ambitious of an oppor<g ref="char:EOLhyphen"/>tunity to express in as publick a manner as possible the Obligations I have to You, and the hearty Zeal and deep Respect of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most oblig'd and most obedient Nephew, CHARIES SNELL.</signed>
+            </closer>
+         </div>
+         <div type="accounting_manual">
+            <pb facs="tcp:37317:3"/>
+            <pb facs="tcp:37317:3"/>
+            <head>INSTRƲCTIONS to the READER.</head>
+            <p>THE supposed Inventory or Accompt taken here of your <hi>Goods, Ready-Money, Debts to you owing,</hi> and of <hi>Debts by you owing,</hi> from whence this Accompt takes its Beginning, is as follows.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Ready Money</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>315</cell>
+                     <cell>10</cell>
+                     <cell>07.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Goods</hi> valued at</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3157</cell>
+                     <cell>16</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Due to me</hi> by <hi>A.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>57</cell>
+                     <cell>16</cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Due to me</hi> by <hi>B.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3731</cell>
+                     <cell>04</cell>
+                     <cell>04.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Due by me</hi> to <hi>C.</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>12</cell>
+                     <cell>09.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>And to <hi>D.</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>117</cell>
+                     <cell>12</cell>
+                     <cell>09.</cell>
+                  </row>
+                  <row>
+                     <cell>The neat Stock</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3613</cell>
+                     <cell>11</cell>
+                     <cell>07.</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>Of the BOOKS that are Necessary, and their Ʋse.</head>
+               <p>The Books Necessary are Four, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>A Day-Book.</hi>
+                  </item>
+                  <item>2. <hi>A Ledger.</hi>
+                  </item>
+                  <item>3. <hi>A Cash-Book.</hi>
+                  </item>
+                  <item>4. <hi>A Book of Goods Bought and Sold.</hi>
+                  </item>
+               </list>
+               <p>Their Use is as follows.</p>
+               <p>In the First, or <hi>Day-Book</hi> are Enter'd <hi>all Dealings</hi> as they occur, as of Goods Bought, or Sold, Money Receiv'd, or Paid, <hi>&amp;c.</hi> observing in each Article or Par<g ref="char:EOLhyphen"/>cel to Express the <hi>Date, Action, Person, Quantity,</hi> and <hi>Quality</hi> of the Goods, <hi>Price, Agreement,</hi> and <hi>Total.</hi>
+               </p>
+               <p>In the second, or <hi>Ledger</hi> are Enter'd the <hi>Names</hi> of all those you Deal with upon Trust; allowing each a convenient space to Enter or Post such Dealings as shall be had with him, <hi>viz.</hi> On the Left-hand to Post all Articles for which he is In<g ref="char:EOLhyphen"/>debted or Chargeable, and on the Right all such for which he ought to have Credit, or whereby he Discharges himself.</p>
+               <p>In the Third, or <hi>Cash-Book</hi> are Enter'd on the Left-hand all <hi>Receipts of Money;</hi> on the Right, all <hi>Payments;</hi> and on Both, the Time when, of whom, and to whom.</p>
+               <p>In the Fourth and Last, or <hi>Book of Goods Bought and Sold</hi> are Enter'd on the Left<g ref="char:EOLhyphen"/>hand all <hi>Goods Bought</hi> or <hi>Received;</hi> and on the Right all <hi>Goods Sold</hi> or <hi>Deliver'd.</hi>
+               </p>
+               <p>What is here omitted in the Explanation of the Use of these Books is more easily learn'd by the Examples in Each; for which Reason you are refen'd thither, where you may observe the way of Ruling each Book.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:37317:4"/>
+               <head>RƲLES and DIRECTIONS.</head>
+               <p n="1">1. For the <hi>Goods</hi> I have when I <hi>Begin New Books,</hi> I Enter them in my Fourth Book of Goods Bought and Sold, on the Left-side, saying <hi>To Ballance,</hi> &amp;c. for their Total Amount; and on the Right-side of Ballance in the same Book, <hi>By Goods,</hi> &amp;c. for their Amount, as you may see upon those two Accompts in the Fourth Book.</p>
+               <p n="2">2. For my <hi>Ready Money,</hi> I Enter under the Title of Cash in my Third Book on the Left-side, <hi>To Ballance,</hi> &amp;c. and on the Right-side of Ballance in my Fourth Book, <hi>By Cash,</hi> &amp;c. as may be seen in those two Books.</p>
+               <p n="3">3. For the <hi>Money Due to me</hi> by any Person or Persons, I Enter on the Left-side of their Accompts in my Second Book, <hi>To Ballance due by him, her,</hi> or <hi>them;</hi> and on the Right-side of Ballance in my Fourth Book; <hi>By</hi> (mentioning the Name of the Person Indebted,) <hi>due by him, her,</hi> or <hi>them,</hi> as may be seen in those two Books.</p>
+               <p n="4">4. For the <hi>Money due by Me</hi> to any Person or Persons, I enter on the Left-side of Ballance in my Fourth Book, <hi>To</hi> (mentioning the Name of the Person to whom I am Indebted) <hi>due to him,</hi> or <hi>her;</hi> and on the Right-side of the Ac<g ref="char:EOLhyphen"/>compt of the Person in my Second Book, <hi>By Ballance due to him,</hi> or <hi>her,</hi> as may be seen in those two Books.</p>
+               <p>Thus much for the <hi>Beginning of the Books:</hi> I proceed now to <hi>Dealings</hi> as they lye in the <hi>Day-Book, viz.</hi>
+               </p>
+               <p n="5">5. For <hi>Goods Sold by Me on Trust,</hi> I Enter on the Left-side of the Accompt of the Person to whom Sold in my Second Book, <hi>To Goods,</hi> &amp;c. <hi>Sold him, her,</hi> or <hi>them;</hi> and on the Right-side of Accompt of Goods Bought and Sold in my Fourth Book, <hi>By</hi> (mentioning the Name of the Person to whom Sold) <hi>Sold him, her,</hi> or <hi>them,</hi> as may be seen in those two Books.</p>
+               <p n="6">6. For <hi>Money Received by Me,</hi> I Enter on the Left-side of my Third Book, <hi>viz.</hi> Cash-Book, <hi>To</hi> (mentioning the Name of the Person for whose Accompt Re<g ref="char:EOLhyphen"/>ceiv'd) <hi>Receiv'd in part,</hi> or <hi>in full;</hi> and on the Right-side of that Persons Ac<g ref="char:EOLhyphen"/>compt in my Ledger or Second Book, <hi>By Cash Received of him, her,</hi> or <hi>them in Part,</hi> or <hi>in Full,</hi> as may be seen in those two Books.</p>
+               <p n="7">7. For <hi>Goods Bought by Me for Ready Money,</hi> I enter on the Left-side of the Ac<g ref="char:EOLhyphen"/>compt of Goods Bought and Sold in my Fourth Book, <hi>To Cash Bought</hi> (of such a one if you know his Name and think it necessary to mention it,) and on the Right-side of Cash in my Third Book, <hi>By Goods,</hi> &amp;c. <hi>Bought</hi> (of such a one if you please,) as may be seen in those two Books.</p>
+               <p n="8">8. For <hi>Money Paid by Me,</hi>
+                  <list>
+                     <item>
+                        <hi>Goods Sold by Me for Ready Money,</hi> and</item>
+                     <item>
+                        <hi>Goods Bought by Me on Trust,</hi> they are in their Posting or Entry the <hi>Contra</hi> to Rules 6, 7, and 5, as may be seen by Examining them in the several Books.</item>
+                  </list>
+               </p>
+               <p n="9">9. For <hi>Abatements made By you to Debtors,</hi> and <hi>To you by Creditors Enter'd in your Ledger,</hi> you may, to avoid a Multitude of Entries in your Book of Goods Bought and Sold, only put the Abatements on the Debtor or Creditor of each Persons Accompt when you Post them; as may be seen in the Ledger: And on a sheet of Paper Divided into two Columns and Titled, <hi>Abatements made By me,</hi> and <hi>Abatements made To me,</hi> you may Enter the Abatements in Figures only, under
+<pb facs="tcp:37317:4"/>their Proper Column; and, when the Sheet is full written, Sum up Each Co<g ref="char:EOLhyphen"/>lumn, Entring on the Debtor-side or Left-hand of Goods Bought and Sold, in your Fourth Book, <hi>To several Accompts for Abatements made By me;</hi> and on the Creditor or Right-side of the same Accompt of Goods Bought and Sold, <hi>By se<g ref="char:EOLhyphen"/>veral Accompts for Abatements made To me;</hi> as may be seen in that Accompt in the Fourth Book.</p>
+               <p n="10">10. For <hi>Expences of House-keeping, Rent, Pocket,</hi> &amp;c. You may Enter them Weekly or Monthly as in this Accompt, saying on the Debtor or Left-side of Goods Bought and Sold in the Fourth-Book, <hi>To Cash,</hi> &amp;c. for the Expences of that Week or Month, and on the Creditor or Right-side of your Accompt of Cash for that Week or Month in your Third or Cash-Book, say, <hi>By Goods,</hi> &amp;c. for the Expences of the said Week or Month.</p>
+               <p>These Instructions, (well understood) are sufficient for the Right Stating and Posting of any Tradesman's Books of Accompts: I go on now to the <hi>Order of Ballancing</hi> your Books.</p>
+            </div>
+            <div type="part">
+               <head>The Order of Ballancing your Books.</head>
+               <p n="1">1. Add up the Debtor or Left, and Creditor or Right-side of Each Person's Accompt in your Second Book or Ledger, Substracting that side of Each Ac<g ref="char:EOLhyphen"/>compt which is Least from the other, and Enter the Remainder on the Left or Debtor-side of the Accompt of Ballance in your Fourth Book, if he, she, or they owe you Money, and on the Right or Creditor-side of the Person's Accompt: But, if you owe the Person Money, then on the Right or Creditor-side of the Ac<g ref="char:EOLhyphen"/>compt of Ballance in your Fourth Book, and on the Left or Debtor-side of the Person's Accompt; as may be seen in the several Accompts in the Ledger or Second Book, and in the Accompt of Ballance in the Fourth Book.</p>
+               <p n="2">2. Add up the Debtor and Creditor-sides of your Accompt of Cash in your Third or Cash-Book; and, Substracting the Amount of the Creditor from that of the Debtor, Enter upon the Creditor-side of the said Accompt of Cash, <hi>By Ballance for somuch Ready Money;</hi> and on the Debtor-side of Ballance in your Fourth Book, <hi>To Cash,</hi> &amp;c. as may be seen in those two Accompts.</p>
+               <p n="3">3. To Ballance your Accompt of Goods Bought and Sold in your Fourth Book, you must look over your <hi>Goods Remaining in your Shop,</hi> &amp;c. and set the value they cost you upon a Sheet of Paper, which when added into one Total Sum must be Enter'd on the Creditor-side of your Accompt of Goods Bought and Sold, saying, <hi>By Ballance for Goods Remaining,</hi> and on the Debtor-side of Ballance, <hi>To Goods for Remainders.</hi>
+               </p>
+               <p n="4">4. Then Add up your Accompt of Goods Bought and Sold in your Fourth Book, and if the Creditor-side Exceeds the Debtor, somuch is Gain'd Neat, which must be Enter'd on the Debtor-side of Accompt of Goods Bought and Sold, saying, <hi>To Ballance Gain'd Neat,</hi> and on the Creditor-side of Ballance, saying, <hi>By Goods for the Neat Gains:</hi> But if the Debtor-side of the Accompt of Goods Bought and Sold in your Fourth Book Exceeds the Creditor, somuch is Lost, which must be Enter'd on the Creditor-side of the Accompt of Goods Bought and Sold in your Fourth Book, saying, <hi>By Ballance for somuch Lost,</hi> and on the Debtor-side of Ballance, <hi>To Goods for somuch Lost:</hi> Having done thus much, if you have pro<g ref="char:EOLhyphen"/>ceeded Right in your Posting, the Total of your Accompt of Ballance will Amount
+<pb facs="tcp:37317:5"/>to the same on Each side; if it does not, you have committed some Error in Posting, which may be found in the following manner, and must be corrected.</p>
+            </div>
+            <div type="part">
+               <head>The METHOD of Examining your BOOKS to sind out an ERROR.</head>
+               <p>Begin at the first Article in your <hi>Day-Book,</hi> and Examin whether it has been Posted upon two several and proper Accompts in your other Books, upon the one, Debtor; and on the other, Creditor for the Sum that the Article carries in your <hi>Day-Book:</hi> If you find it has, so far you have Posted right, and may against the Sum in those two Accompts make a Tittle. Then proceed to the next Article in your <hi>Day-Book,</hi> and do the same with that, still making a Tittle to the Sum, as well on the Accompt were 'twas Posted Debtor as on that where 'twas Posted Creditor; and when you have thus gone thro' your <hi>Day-Book,</hi> then see whether against every Sum in your other Books you find a Tittle; for, where the Tittle is wanting, 'tis there you have committed an Error.</p>
+            </div>
+            <div type="part">
+               <head>The way of Correcting an Error in Posting.</head>
+               <p n="1">1. Suppose you have Posted in your <hi>Ledger, Cash-Book,</hi> or <hi>Book of Goods Bought and Sold</hi> a Debtor without a Creditor, or a Creditor without a Debtor; or suppose,</p>
+               <p n="2">2. That an Accompt is Posted Debtor when it shou'd be Creditor, or Creditor when it shou'd be Debtor, or</p>
+               <p n="3">3. That you have made an Entrance under a False Title.</p>
+               <p>For the First, it being sound out as before directed, you may casily rectify it by Entring the Omission in its proper Accompt, whether Debtor or Creditor.</p>
+               <p>For the Second, if you have Posted an Article to the Debtor of any Accompt instead of the Creditor, you may on the Debtor-side before the Article wrong Enter'd make this for any other Mark to signify its wrong Entrance, and on the Creditor of the same Accompt you must write, <hi>By an Error as per Contra,</hi> en<g ref="char:EOLhyphen"/>tring the same Sum as on the Debtor, and prefixing the same Mark. Thus ha<g ref="char:EOLhyphen"/>ving corrected that Error without blotting or scraping it out, you must Enter the Article right; but if you have Posted to the Creditor instead of the Debtor, you must do on the Creditor-side as in the former Instance you did on the Debtor<g ref="char:EOLhyphen"/>side; and on the Debtor-side of the same Accompt you must write, <hi>To an Error as per Contra;</hi> (not forgeting to prefix this Mark †, or some other, and to Enter the same Sum on the Debtor, as you had falsely Enter'd on the Creditor,) and then Post the Article right.</p>
+               <p>For the Third or Last, <hi>viz.</hi> An Entrance made under a False Title, you may make this †, or any other Mark against it; and then on the opposite side say, <hi>To,</hi> or <hi>By an Error as per Contra.</hi> Thus is that Error corrected, and then you must Enter the Parcel under its proper Title.</p>
+               <pb facs="tcp:37317:5"/>
+               <p>
+                  <hi>Note,</hi> If any one shall find that Four Books are inconvenient, (that number being only propos'd necessary for Dispatch in Posting) they may keep the Three last all in one Book.</p>
+               <p>Since the writing of these Sheets I have met with an Objection, used by some Tradesmen against Ballancing their Books once a Year, <hi>viz.</hi> That the time of their Country Chapmens coming to Town being uncertain, (with whom it is customary to make a Rest upon their Accompts sign'd by themselves,) makes it impracticable: But if they would well consider what I have said in Rule 9. upon the subject of Abatements, they'd find nothing more weak than that Objection; but to be more plain I'll instance an Example; Suppose say they that we Ballance our Books, and <hi>A.</hi> comes to Town some time after, and desiring a View of his Accompt, finds by our Ballance that he is indebted <hi>l.</hi> 10: 6: 8: examines the particulars and will have Abatement upon some of them, as suppose of <hi>l.</hi> 0: 15: 09: in the whole; how say they (if we comply to it,) shall we make our Books right for him to Sign? I answer that there's nothing more easy; <hi>viz.</hi> Upon the Paper of Abatements under the Title of Abatements made by me, to Enter the <hi>l.</hi> 0: 15: 09: and on the Credit of the Persons Accompt the same Sum, <hi>viz. Abated l.</hi> 0: 15: 09: Then on the said Credit Enter <hi>By Ballance car<g ref="char:EOLhyphen"/>ried to new Accompt in such a Folio l.</hi> 9: 10: 11, and upon the Debit of the New Accompt of the Person Enter <hi>To Ballance of Old Accompt brought from such a Folio, and Acknowledged to be due to</hi>— by (here let the Person Sign) <hi>l.</hi> 9: 10: 11. Thus you'll find the New Accompt of the Person to stand to your con<g ref="char:EOLhyphen"/>tent.</p>
+               <p>Thus much I have ventur'd to write upon this Subject, not finding it done by any other hand before, and knowing the Great Want of it, but refer its further Improvement to those that have more leisure and skill: And, as I am not at pre<g ref="char:EOLhyphen"/>sent conscious of any Material Fault in these or the following Pages, so I hope for smaller ones (if any) to have your Pardon.</p>
+               <closer>
+                  <signed>C. S.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:37317:6"/>
+            <head>ADVERTISEMENT.</head>
+            <p>AT the WRITING-SCHOOL adjoining to St. <hi>Foster's-Church,</hi> in <hi>Foster-Lane,</hi> near <hi>Cheap-side,</hi> are Taught <hi>Writing</hi> in all the Hands of <hi>England, Arithmetick,</hi> and <hi>Merchants Accompts,</hi> by the Author; and for the con<g ref="char:EOLhyphen"/>venience of <hi>Merchants</hi> and <hi>Tradesmen,</hi> who are desirous their Apprentices should improve themselves in the above<g ref="char:EOLhyphen"/>said Arts; he is willing to continue at his <hi>School</hi> for that End every <hi>Monday, Wednesday,</hi> and <hi>Friday</hi> in the Evenings, from Six till Nine of the Clock.</p>
+            <p>The <hi>Pen-man's Treasury open'd,</hi> being a <hi>Copy-Book</hi> of all the usual Hands of <hi>England:</hi> And an <hi>Exact Copy of the Court and Chancery Hands,</hi> both done by the Author of this Book; are Sold by <hi>John Place,</hi> at <hi>Furnival's-Inn-Gate,</hi> in <hi>Holborn,</hi> and by the Widow <hi>Pask,</hi> behind the <hi>Royal-Exchange,</hi> LONDON.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sample_day-book">
+            <pb n="1" facs="tcp:37317:6"/>
+            <head>Day-book.</head>
+            <p>
+               <table>
+                  <head>LONDON, <hi>April</hi> the First, 1697.</head>
+                  <head>BOOK I.</head>
+                  <row>
+                     <cell>Posted</cell>
+                     <cell>
+                        <hi>1st.</hi>
+                     </cell>
+                     <cell>Sold to Mr. <hi>E</hi>— upon trust, <hi>viz.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10 Yards of—at 4<hi>s.</hi> 6<hi>d. per</hi> Yard</cell>
+                     <cell>2</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>15 Ditto—at 5<hi>s.</hi> 9<hi>d.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>06</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>1st.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>B.</hi> in part</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>5th.</hi>
+                     </cell>
+                     <cell>Bought of Mr. <hi>G</hi>—for ready Money, and paid, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>61 Ells of—at 8<hi>s.</hi> 4<hi>d. per</hi> Ell</cell>
+                     <cell>25</cell>
+                     <cell>08</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>27 Yards of—at 7<hi>s.</hi> 8<hi>d. per</hi> Yard</cell>
+                     <cell>10</cell>
+                     <cell>07</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>51 Ells of—at 4<hi>s.</hi> 7. <hi>per</hi> Ell</cell>
+                     <cell>11</cell>
+                     <cell>13</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>47</cell>
+                     <cell>09</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>11th.</hi>
+                     </cell>
+                     <cell>Paid Mr. C—in part</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>13th.</hi>
+                     </cell>
+                     <cell>Sold Mr. <hi>H.</hi> for ready Money, and Received, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>21 Ells of—at 5<hi>s.</hi> 11<hi>d. per</hi> Ell</cell>
+                     <cell>6</cell>
+                     <cell>04</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>67 Yards of—at 7<hi>s.</hi> 9<hi>d. per</hi> Yard</cell>
+                     <cell>25</cell>
+                     <cell>19</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>102 Ells of—at 4<hi>s.</hi> 10<hi>d. per</hi> Ell</cell>
+                     <cell>24</cell>
+                     <cell>13</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 6<hi>d.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>16</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+               <pb n="2" facs="tcp:37317:7"/>
+               <table>
+                  <head>LONDON, <hi>April</hi> the <hi>19th,</hi> 1697.</head>
+                  <row>
+                     <cell>Posted.</cell>
+                     <cell>
+                        <hi>19th.</hi>
+                     </cell>
+                     <cell>Bought of Mrs. <hi>D</hi>—upon Trust, <hi>viz.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>206 Ells of—at 4<hi>s.</hi> 10<hi>d. per</hi> Ell</cell>
+                     <cell>49</cell>
+                     <cell>15</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>307 Yards of—at 2<hi>s.</hi> 9<hi>d. pre</hi> Yard</cell>
+                     <cell>42</cell>
+                     <cell>04</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>417 Yards of—at 8<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                     <cell>173</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 11<hi>d.</hi>
+                     </cell>
+                     <cell>265</cell>
+                     <cell>14</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>24th.</hi>
+                     </cell>
+                     <cell>Paid Mrs. <hi>D</hi>— in part</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>E</hi>—in full</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>A</hi>— in full</cell>
+                     <cell>57</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Expended this Month, as <hi>per</hi> Accompt of Ex<g ref="char:EOLhyphen"/>pences.</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                     <cell>07</cell>
+                  </row>
+               </table>
+               <table>
+                  <head>May <hi>the</hi> 8th, <hi>1697.</hi>
+                  </head>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>8th.</hi>
+                     </cell>
+                     <cell>Sold Mr. <hi>F</hi> — upon Trust, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>306 Yards of—at 8<hi>s.</hi> 4<hi>d. per</hi> Yard</cell>
+                     <cell>127</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>165 Ells of—at 9<hi>s.</hi> 7<hi>d. per</hi> Ell</cell>
+                     <cell>79</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>267 ditto—at 10<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                     <cell>137</cell>
+                     <cell>19</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>344</cell>
+                     <cell>10</cell>
+                     <cell>03</cell>
+                  </row>
+               </table>
+               <pb n="3" facs="tcp:37317:7"/>
+               <table>
+                  <head>LONDON, <hi>May</hi> the <hi>10th,</hi> 1697.</head>
+                  <row>
+                     <cell>Posted.</cell>
+                     <cell>
+                        <hi>10th.</hi>
+                     </cell>
+                     <cell>Sold Mr. <hi>C</hi>— upon Trust, <hi>viz.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3 Ells ½ of— at 10<hi>s.</hi> 7<hi>d. per</hi> Ell</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>00</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5 Yards ⅞ of — at 8<hi>s.</hi> 4<hi>d. per</hi> Yard</cell>
+                     <cell>2</cell>
+                     <cell>08</cell>
+                     <cell>11</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6 ditto 7/16 of — at 11<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 ditto ⅜ of — at 7<hi>s.</hi> 11<hi>d.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                     <cell>09</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1 ditto <gap reason="illegible" resp="#keyers" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of — at 6<hi>s.</hi> 9<hi>d.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7 ditto ¾ of — at 8<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>04</cell>
+                     <cell>07</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 ditto ¼ of — at 11<hi>s.</hi> 10<hi>d.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>06</cell>
+                     <cell>07</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>7 ditto ⅞ of — at 8<hi>s.</hi> 6<hi>d.</hi> ¾</cell>
+                     <cell>3</cell>
+                     <cell>07</cell>
+                     <cell>04</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 ditto 1/16 of —at 11<hi>s.</hi> 4<hi>d.</hi> ½</cell>
+                     <cell>1</cell>
+                     <cell>03</cell>
+                     <cell>05</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4 ditto ⅛ of — at 8<hi>s.</hi> 9<hi>d.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>01</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>18th.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>B</hi> — in part</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>23th.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>F</hi> — in part</cell>
+                     <cell>144</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>Bought of Mr. <hi>C</hi> — upon Trust, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>169 Yards ¾ of — at 11<hi>s.</hi> 8<hi>d. per</hi> Yard</cell>
+                     <cell>99</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>27 ditto ⅛ of — at 10<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>03</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>197 ditto 7/16 of — at 10<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                     <cell>103</cell>
+                     <cell>13</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>216 ditto 3/16 of — at 4<hi>s.</hi> 9<hi>d.</hi>
+                     </cell>
+                     <cell>51</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1000 ditto of — at 8<hi>s.</hi> 4<hi>d.</hi> ⅛</cell>
+                     <cell>417</cell>
+                     <cell>03</cell>
+                     <cell>09</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>271 ditto ½ of — at 2<hi>s.</hi> 10<hi>d.</hi> ⅞</cell>
+                     <cell>39</cell>
+                     <cell>09</cell>
+                     <cell>00</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 3<hi>s.</hi> 5<hi>d.</hi> ¼</cell>
+                     <cell>724</cell>
+                     <cell>13</cell>
+                     <cell>05</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>Paid Mr. <hi>C</hi> — in part</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>31st.</hi>
+                     </cell>
+                     <cell>Received of Mr. <hi>F</hi>— in part</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>31st.</hi>
+                     </cell>
+                     <cell>Expended this Month, as per Accompt of Expences</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <pb n="4" facs="tcp:37317:8"/>
+               <table>
+                  <head>LONDON, <hi>June</hi> the <hi>4th,</hi> 1697.</head>
+                  <row>
+                     <cell>Posted.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Sold for ready Money, <hi>viz.</hi>
+                     </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 Yards ½ of — at 8<hi>s.</hi> 4<hi>d. per</hi> Yard</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Ditto.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4 Yards ¼ of — at 7<hi>s.</hi> 11<hi>d. per</hi> Yard</cell>
+                     <cell>1</cell>
+                     <cell>13</cell>
+                     <cell>07</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>1 ditto ⅞ of — at 6<hi>s.</hi> 10<hi>d.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                     <cell>09</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 1<hi>d.</hi> ½.</cell>
+                     <cell>2</cell>
+                     <cell>06</cell>
+                     <cell>05</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Ditto.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3 Yards 7/16 of— at 10<hi>s.</hi> 7<hi>d. per</hi> Yard</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>04</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated ¼.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Sold Mr. <hi>A</hi> — upon Trust, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>9 Yards ⅞ of — at 8<hi>s.</hi> 4<hi>d.</hi> ⅞ <hi>per</hi> Yard</cell>
+                     <cell>4</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10 Ells ¾ at 11<hi>s.</hi> 6<hi>d. per</hi> Ell</cell>
+                     <cell>6</cell>
+                     <cell>03</cell>
+                     <cell>07</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Sold for ready Money, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>16 Yards ⅝ of — at 10<hi>s.</hi> 10<hi>d. per</hi> Yard</cell>
+                     <cell>9</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 ditto 1/16 of—at 8<hi>s.</hi> 7<hi>d.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>17</cell>
+                     <cell>08</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 3<hi>d.</hi> ½.</cell>
+                     <cell>9</cell>
+                     <cell>17</cell>
+                     <cell>09</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>Sold for ready Money, <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3 Yards ½ of — at 11<hi>s.</hi> 4<hi>d. per</hi> Yard</cell>
+                     <cell>1</cell>
+                     <cell>19</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>2 ditto ⅞ of — at 5<hi>s.</hi> 7<hi>d.</hi>
+                     </cell>
+                     <cell>0</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 2<hi>d</hi> ½.</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>08</cell>
+                     <cell>½</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="5" facs="tcp:37317:8"/>
+            <p>
+               <table>
+                  <head>LONDON, <hi>June</hi> the <hi>6th,</hi> 1697.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Posted.</cell>
+                     <cell>
+                        <hi>6th.</hi>
+                     </cell>
+                     <cell>Paid Mrs. <hi>D</hi>— in full</cell>
+                     <cell>65</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>10th.</hi>
+                     </cell>
+                     <cell>Paid Mr. <hi>C</hi>— in part</cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>Bought of Mr. <hi>F</hi>— upon Trust <hi>viz.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>691 Yards ½ of— at 8<hi>s.</hi> 7<hi>d.</hi> ⅛ <hi>per</hi> Yard</cell>
+                     <cell>297</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>267 ditto ⅜ of — at 4<hi>s.</hi> 11<hi>d.</hi> ⅞</cell>
+                     <cell>66</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell>½</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>169 ditto ⅞ of — at 10<hi>s.</hi> 7<hi>d.</hi> ⅛</cell>
+                     <cell>89</cell>
+                     <cell>19</cell>
+                     <cell>07</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>100 ditto of— at 4<hi>s.</hi> 11<hi>d.</hi> ½</cell>
+                     <cell>24</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated 2<hi>s.</hi> 00<hi>d.</hi> ¼.</cell>
+                     <cell>478</cell>
+                     <cell>12</cell>
+                     <cell>00</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>28th.</hi>
+                     </cell>
+                     <cell>Borrow'd of Mrs. <hi>D</hi>— to pay her on de<g ref="char:EOLhyphen"/>mand</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>Paid Mr. <hi>F</hi>— in part</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>pt.</cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>Expended this Month, as <hi>per</hi> Accompt of Expences</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>The End of the Day-Book.</trailer>
+         </div>
+         <div type="sample_ledger">
+            <pb n="1" facs="tcp:37317:9"/>
+            <head>Ledger.</head>
+            <head>BOOK II.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>A. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Debtor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>To Ballance of old Books owing by him</cell>
+                     <cell>57</cell>
+                     <cell>16</cell>
+                     <cell>11</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> Sold</cell>
+                     <cell>10</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>B. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31st.</hi>
+                     </cell>
+                     <cell>To Ballance owing by him</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>C. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>11th.</hi>
+                     </cell>
+                     <cell>To Cash paid him in part</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>10th.</hi>
+                     </cell>
+                     <cell>To Goods <hi>&amp;c.</hi> Sold him</cell>
+                     <cell>20</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>To Cash paid him in part</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>10th.</hi>
+                     </cell>
+                     <cell>To ditto in part</cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>280</cell>
+                     <cell>06</cell>
+                     <cell>10</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To Ballance due to him</cell>
+                     <cell>461</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>¼</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>742</cell>
+                     <cell>02</cell>
+                     <cell>09</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>D. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Apr.</hi>
+                     </cell>
+                     <cell>
+                        <hi>24th.</hi>
+                     </cell>
+                     <cell>To Cash paid her in part</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>6th.</hi>
+                     </cell>
+                     <cell>To ditto in full</cell>
+                     <cell>65</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>365</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To Ballance due to her on demand</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="2" facs="tcp:37317:10"/>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>E. Debtor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>1st.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> Sold him</cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>F. Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>8th.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> Sold him</cell>
+                     <cell>344</cell>
+                     <cell>10</cell>
+                     <cell>03</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To Cash paid him in part</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To Ballance due to him</cell>
+                     <cell>594</cell>
+                     <cell>10</cell>
+                     <cell>03</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>178</cell>
+                     <cell>09</cell>
+                     <cell>09</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>773</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The End of the Ledger.</p>
+            <pb n="1" facs="tcp:37317:9"/>
+            <p>
+               <table>
+                  <head>Ledger.</head>
+                  <head>BOOK II.</head>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>A. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Creditor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>By Cash received of him in full</cell>
+                     <cell>57</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated</cell>
+                     <cell>—</cell>
+                     <cell>01</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>By Ballance due to me</cell>
+                     <cell>10</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>B. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>1st.</hi>
+                     </cell>
+                     <cell>By Cash received of him in part</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>18th.</hi>
+                     </cell>
+                     <cell>By ditto in part</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>140</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>By Ballance due to me</cell>
+                     <cell>60</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>C. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>By Ballance due to him</cell>
+                     <cell>17</cell>
+                     <cell>12</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>By Goods, <hi>&amp;c.</hi> bought of him</cell>
+                     <cell>724</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>742</cell>
+                     <cell>02</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>D. <gap reason="blank" resp="#oxf" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>By Ballance due to her</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>19th.</hi>
+                     </cell>
+                     <cell>By Goods <hi>&amp;c.</hi> bought of her</cell>
+                     <cell>265</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>365</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>28th.</hi>
+                     </cell>
+                     <cell>By Cash borrow'd of her to pay on demand</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <pb n="2" facs="tcp:37317:10"/>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>E. Creditor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>By Cash received of him in full</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>Abated</cell>
+                     <cell>—</cell>
+                     <cell>01</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>6</cell>
+                     <cell>11</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>F. Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>23th.</hi>
+                     </cell>
+                     <cell>By Cash received of him in part</cell>
+                     <cell>144</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>By ditto in part</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>By Goods <hi>&amp;c.</hi> bought of him</cell>
+                     <cell>478</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>773</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>The End of the Ledger.</trailer>
+         </div>
+         <div type="sample_cash-book">
+            <pb n="1" facs="tcp:37317:11"/>
+            <head>Cash-book.</head>
+            <head>BOOK III.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>April,</hi> 1697. Debtor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>To Ballance of <hi>March</hi> in the old Cash-book</cell>
+                     <cell>315</cell>
+                     <cell>10</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>1st.</hi>
+                     </cell>
+                     <cell>To <hi>B.</hi> received in part</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>13th.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> Sold to <hi>H.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>16</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>To <hi>E.</hi> received in full</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To <hi>A.</hi> received in full</cell>
+                     <cell>57</cell>
+                     <cell>15</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>536</cell>
+                     <cell>11</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>1697</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>May,</hi> 1697. Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To Ballance of <hi>April</hi>
+                     </cell>
+                     <cell>168</cell>
+                     <cell>19</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May.</hi>
+                     </cell>
+                     <cell>
+                        <hi>18th.</hi>
+                     </cell>
+                     <cell>To <hi>B.</hi> received in part</cell>
+                     <cell>40</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>23th.</hi>
+                     </cell>
+                     <cell>To <hi>F.</hi> received in part</cell>
+                     <cell>144</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>To <hi>D.</hi> in part</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>503</cell>
+                     <cell>09</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>June,</hi> 1697. Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To Ballance of <hi>May</hi>
+                     </cell>
+                     <cell>286</cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June.</hi>
+                     </cell>
+                     <cell>
+                        <hi>4th.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> Sold</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To ditto</cell>
+                     <cell>2</cell>
+                     <cell>06</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To ditto</cell>
+                     <cell>1</cell>
+                     <cell>16</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To ditto</cell>
+                     <cell>9</cell>
+                     <cell>17</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To ditto</cell>
+                     <cell>2</cell>
+                     <cell>15</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>28th.</hi>
+                     </cell>
+                     <cell>To <hi>D.</hi> borrow'd of her to pay on demand</cell>
+                     <cell>150</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>454</cell>
+                     <cell>01</cell>
+                     <cell>11</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The End of the Cash-Book.</p>
+            <pb n="1" facs="tcp:37317:11"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>April,</hi> 1697. Creditor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>5th.</hi>
+                     </cell>
+                     <cell>By Goods, <hi>&amp;c.</hi> Bought of <hi>G.</hi>
+                     </cell>
+                     <cell>47</cell>
+                     <cell>09</cell>
+                     <cell>01</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>11th.</hi>
+                     </cell>
+                     <cell>By <hi>C.</hi> paid him in part</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>24th.</hi>
+                     </cell>
+                     <cell>By <hi>D.</hi> paid her in part</cell>
+                     <cell>300</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>By Goods, <hi>&amp;c.</hi> for Expences this Month</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>367</cell>
+                     <cell>11</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>By Ballance resting</cell>
+                     <cell>168</cell>
+                     <cell>19</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>536</cell>
+                     <cell>11</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>May,</hi> 1697. Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May</hi>
+                     </cell>
+                     <cell>
+                        <hi>29th.</hi>
+                     </cell>
+                     <cell>By <hi>C.</hi> paid him in part</cell>
+                     <cell>200</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>By Goods, <hi>&amp;c.</hi> for Expences this Mouth</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>217</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>By Ballance resting</cell>
+                     <cell>286</cell>
+                     <cell>05</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>503</cell>
+                     <cell>09</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Cash for <hi>June,</hi> 1697. Cr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June</hi>
+                     </cell>
+                     <cell>
+                        <hi>6th</hi>
+                     </cell>
+                     <cell>By <hi>D.</hi> paid ber in full</cell>
+                     <cell>65</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>10th.</hi>
+                     </cell>
+                     <cell>By <hi>C.</hi> paid him in part</cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>By <hi>F.</hi> paid him in part</cell>
+                     <cell>250</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>By Goods, <hi>&amp;c.</hi> for Expences this Month</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>378</cell>
+                     <cell>05</cell>
+                     <cell>02</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>By Ballance resting</cell>
+                     <cell>75</cell>
+                     <cell>16</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>454</cell>
+                     <cell>01</cell>
+                     <cell>11</cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>The End of the Cash-Book.</trailer>
+         </div>
+         <div type="sample_book_of_goods_bought_and_sold">
+            <pb n="1" facs="tcp:37317:12"/>
+            <head>Book of Goods Bought and Sold. BOOK IV.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Goods Bought, <hi>&amp;c.</hi> Debtor.</cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                     <cell>
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>
+                        <hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31st.</hi>
+                     </cell>
+                     <cell>To Ballance, in Goods this Day</cell>
+                     <cell>3157</cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>April.</hi>
+                     </cell>
+                     <cell>
+                        <hi>5th.</hi>
+                     </cell>
+                     <cell>To Cash bought of <hi>G</hi>
+                     </cell>
+                     <cell>47</cell>
+                     <cell>09</cell>
+                     <cell>01</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>19th.</hi>
+                     </cell>
+                     <cell>To <hi>D.</hi> bought of her</cell>
+                     <cell>265</cell>
+                     <cell>14</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To several Accompts for abatements, as <hi>per</hi> Paper, ending this Day</cell>
+                     <cell>—</cell>
+                     <cell>03</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To Cash for Expences this Month</cell>
+                     <cell>10</cell>
+                     <cell>02</cell>
+                     <cell>07</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>May</hi>
+                     </cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>To <hi>C.</hi> bought of him</cell>
+                     <cell>724</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>To Cash in Expences this Month</cell>
+                     <cell>17</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>June</hi>
+                     </cell>
+                     <cell>
+                        <hi>25th.</hi>
+                     </cell>
+                     <cell>To <hi>F.</hi> bought of him</cell>
+                     <cell>478</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To Cash in Expences this Month</cell>
+                     <cell>12</cell>
+                     <cell>11</cell>
+                     <cell>02</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>—</cell>
+                     <cell>To Ballance gain'd neat</cell>
+                     <cell>96</cell>
+                     <cell>14</cell>
+                     <cell>07</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4810</cell>
+                     <cell>16</cell>
+                     <cell>05</cell>
+                     <cell>¾</cell>
+                  </row>
+                  <row>
+                     <cell>1697.</cell>
+                     <cell> </cell>
+                     <cell>Ballance. Dr.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>R. <hi>Mar.</hi>
+                     </cell>
+                     <cell>
+                        <hi>31th.</hi>
+                     </cell>
+                     <cell>To <hi>C.</hi> due to him</cell>
+                     <cell>17</cell>
+                     <cell>12</cell>
+                     <cell>09</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>R. —</cell>
+                     <cell>—</cell>
+                     <cell>To <hi>D.</hi> due to her</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>B. <hi>June</hi>
+                     </cell>
+                     <cell>
+                        <hi>30th.</hi>
+                     </cell>
+                     <cell>To Goods, <hi>&amp;c.</hi> for remainders</cell>
+                     <cell>4354</cell>
+                     <cell>08</cell>
+                     <cell>05</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>B. —</cell>
+                     <cell>—</cell>
+                     <cell>To Cash remaining</cell>
+                     <cell>75</cell>
+                     <cell>16</cell>
+                     <cell>09</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>B. —</cell>
+                     <cell>—</cell>
+                     <cell>To <hi>A.</hi> due to me</cell>
+                     <cell>10</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>B. —</cell>
+                     <cell>—</cell>
+                     <cell>To <hi>B.</hi> due to me</cell>
+                     <cell>60</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>4618</cell>
+                     <cell>04</cell>
+                     <cell>07</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:37317:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
